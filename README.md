@@ -7,4 +7,3 @@
 ![Screenshot7](screenshots/7.png)
 ![Screenshot8](screenshots/8.png)
 ![Screenshot9](screenshots/9.png)
-![Screenshot10](screenshots/10.png)
